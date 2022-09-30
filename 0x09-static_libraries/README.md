@@ -1,2 +1,2 @@
-static library task
+static library
 
